@@ -97,7 +97,7 @@ with gzip.open(DATASET_PATH, 'r') as f:
 * We randomly divided the data by review into training, development, and test.
 * Data size
 
-|           | Reviews | Sentence | Positive (%) |
+|           | Reviews | Sentences | Positive (%) |
 | ---       | --:     | --:      |  --:         |
 | Train     | 29,826  | 148,671 | 20,709 (13.9)|
 | Dev       |  3,726  | 18,549  | 2,606 (14.0)|
