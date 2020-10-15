@@ -176,7 +176,7 @@ with gzip.open(DATASET_PATH, 'r') as f:
 - リクルートは本データセットを非営利的な公共利用のために公開しています。分析・研究・その成果を発表するために必要な範囲を超えて利用すること（営利目的利用）は固く禁じます。
 - Recruit discloses this Data Set for non-profit public use. It is strictly prohibited to use for profit purposes beyond the scope necessary for the presentation of analysis, research and results.
 
-- 利用者は、研究成果の公表といえども、前項の出版物等の資料に、適正な例示の範囲を超えてデータセット中のデータを掲載してはならず、犯罪その他の違法行為を積極的に助長・推奨するや良俗に違反する情報等を記述しないでください。
+- 利用者は、研究成果の公表といえども、前項の出版物等の資料に、適正な例示の範囲を超えてデータセット中のデータを掲載してはならず、犯罪その他の違法行為を積極的に助長・推奨する内容や公序良俗に違反する情報等を記述しないでください。
 - Even when publishing research results, users should not post data in the data set beyond the appropriate exemplary range in the publications and other materials set forth in the preceding paragraph. Users should not describe information obtained from the data set that violates public order and morals, promote or encourage criminal or other illegal acts.
 
 ## Contact
