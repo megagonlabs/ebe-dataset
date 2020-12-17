@@ -11,7 +11,7 @@ Assuming that some review titles express vague requests and that the correspondi
 we extract vague requests from review titles and annotate evidence sentences for the requests in review texts.
 Finally, we rewrite evidence sentences into recommendation sentences.
 ![image](https://user-images.githubusercontent.com/8220075/95953409-bb655280-0e34-11eb-8927-b79ecadd4059.png)
-The detailed annotation guidelines for this dataset are available in the papers (en: AACL-ICLNLP2020 Kanouchi+ (to appear), ja: [NLP2020 Kanouchi+](anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-8.pdf)).
+The detailed annotation guidelines for this dataset are available in the papers (en: [AACL-ICLNLP2020 Kanouchi+](https://www.aclweb.org/anthology/2020.aacl-main.89.pdf), ja: [NLP2020 Kanouchi+](anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-8.pdf)).
 
 ## Description
 ``org/evidence-based_explanation.json.gz`` is the entire dataset for Evidence-based Explanation.
@@ -139,7 +139,7 @@ with gzip.open(DATASET_PATH, 'r') as f:
 
 
 ##  References
-1. Shin Kanouchi, Masato Neishi, Yuta Hayashibe, Hiroki Ouchi and Naoaki Okazaki. You May Like This Hotel Because …: Identifying Evidence for Explainable Recommendations. Proceedings of The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP2020) pages (to appear), December 2020. \[PDF\]\[bib\] (to appear) 
+1. Shin Kanouchi, Masato Neishi, Yuta Hayashibe, Hiroki Ouchi and Naoaki Okazaki. You May Like This Hotel Because …: Identifying Evidence for Explainable Recommendations. Proceedings of The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP2020) pages 890-899, December 2020. [\[PDF\]](https://www.aclweb.org/anthology/2020.aacl-main.89.pdf) 
 2. 叶内晨, 根石将人, 林部祐太, 岡崎直観. 旅行情報サイトのレビューを用いた抽象的な要求に対する根拠付き推薦文の生成.言語処理学会第26回年次大会 (NLP2020), pp.29–32, 2020年3月 [\[PDF\]](https://anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-8.pdf)
 
 
